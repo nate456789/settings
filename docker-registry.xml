@@ -1,0 +1,9 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="nbattini@jdbyrider.com">
+      <option name="address" value="https://489561739131.dkr.ecr.us-east-2.amazonaws.com" />
+      <option name="name" value="CRM_Dev an AWS" />
+      <option name="username" value="AWS " />
+    </DockerRegistry>
+  </component>
+</application>
